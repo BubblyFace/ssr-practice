@@ -1,0 +1,22 @@
+{
+  "name": "ssr-vue",
+  "version": "1.0.0",
+  "description": "ssr in vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssr",
+    "vue"
+  ],
+  "author": "BubblyFace",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "vue": "^2.5.21",
+    "vue-server-renderer": "^2.5.21"
+  }
+}
